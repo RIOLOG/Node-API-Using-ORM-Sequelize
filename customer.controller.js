@@ -6,7 +6,7 @@ function createCustomer(req, res)
 {
     if (!req.body.name || !req.body.email || !req.body.age)
     {
-        return res.status(400).send({message:"some filed are missing"});
+        return res.status(400).send({message:"some field are missing"});
     }
     const customerObject = {
         name:req.body.name,
