@@ -14,7 +14,7 @@ Welcome to the Customer Management API repository! This API allows you to perfor
 2. Install dependencies:
 3. Configure the database:
 4. Start the server:
-5. The API will be accessible at http://localhost:*000. You can use tools like Postman or cURL to interact with the endpoints
+5. The API will be accessible at http://localhost:8000. You can use tools like Postman or cURL to interact with the endpoints
 
 **Technologies Used**
 Node.js: JavaScript runtime environment for server-side code.
